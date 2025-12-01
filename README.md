@@ -1,6 +1,6 @@
 # Qwirkle Game Monitor
 
-**Author:** Gheorghe Bogdan-Alexandru (Group 343)
+**Author:** Gheorghe Bogdan-Alexandru
 
 ## Project Overview
 The goal of this project is to build a software system capable of automatically calculating the score for a Qwirkle game. The main challenge addressed is enabling the computer to recognize game pieces (shapes and colors) even if the camera angle is imperfect or the pieces are slightly misplaced.
